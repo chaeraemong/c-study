@@ -73,7 +73,7 @@ int CDAccountV2::getMonth()
 }
 
 /*
-°á°ú
+Â°Ã¡Â°Ãº
 Deposit: 10000
 Interest Rate : 10 %
 Period : 6 months
