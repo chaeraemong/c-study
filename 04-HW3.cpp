@@ -80,7 +80,7 @@ bool compareAccounts(const CDAccountV3& account1, const CDAccountV3& account2)
 }
 
 /*
-* °á°ú
+* Â°Ã¡Â°Ãº
 * 
 * 
 Deposit: 10000
