@@ -21,7 +21,7 @@ int main()
 	cin >> subjectNumber;
 	
 	Re_EnterGrade:
-	cout << "Enter 1 if the GPA perfect score is 4.3, and 0 if the perfect score is 4.5.\n -> ";	// GPA »êÁ¤ ¹æ½Ä
+	cout << "Enter 1 if the GPA perfect score is 4.3, and 0 if the perfect score is 4.5.\n -> ";	// GPA ì‚°ì • ë°©ì‹
 	cin >> GPAmethod;
 
 		if (GPAmethod == 1)												// perfect score == 4.3
@@ -50,7 +50,7 @@ int main()
 				totalscore += GPAdata[i][2];
 			}
 		}
-		else															// GPA »êÁ¤ ¹æ½ÄÀÌ Æ²·ÈÀ» °æ¿ì ´Ù½Ã ÀÔ·Â
+		else															// GPA ì‚°ì • ë°©ì‹ì´ í‹€ë ¸ì„ ê²½ìš° ë‹¤ì‹œ ì…ë ¥
 		{
 			cout << "RE-ENTER" << endl;
 			continue;
