@@ -26,7 +26,7 @@ int main()
 	int i = 1;
 	char grades1;
 
-	cout << "Enter '1' if the GPA perfect score is 4.3, and enter '0' if the perfect score is 4.5.\n -> ";	// GPA »êÁ¤ ¹æ½Ä
+	cout << "Enter '1' if the GPA perfect score is 4.3, and enter '0' if the perfect score is 4.5.\n -> ";	// GPA Â»ÃªÃÂ¤ Â¹Ã¦Â½Ã„
 	cin >> GPAmethod;
 	cout << endl;
 
