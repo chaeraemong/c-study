@@ -88,7 +88,7 @@ istream& operator>>(istream& in, IntCoor& a)
 }
 
 /*
-¸ðµÎ ±¸ÇöÇÑ ÈÄ À§ ÄÚµå¸¦ ½ÇÇà½ÃÅ°¸é °á°ú ¿¹´Â ´ÙÀ½°ú °°½À´Ï´Ù.
+ëª¨ë‘ êµ¬í˜„í•œ í›„ ìœ„ ì½”ë“œë¥¼ ì‹¤í–‰ì‹œí‚¤ë©´ ê²°ê³¼ ì˜ˆëŠ” ë‹¤ìŒê³¼ ê°™ìŠµë‹ˆë‹¤.
 
 Enter two integers for coordinates: 1 2
 a : (2, 3)
