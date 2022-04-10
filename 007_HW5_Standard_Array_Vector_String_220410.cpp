@@ -88,7 +88,7 @@ ostream& operator<<(ostream& out, const Account& a)
     return out;
 }
 
-/* ¸ðµÎ ±¸ÇöÇÑ ÈÄ °á°ú¿¹´Â ´ÙÀ½°ú °°½À´Ï´Ù.
+/* ëª¨ë‘ êµ¬í˜„í•œ í›„ ê²°ê³¼ì˜ˆëŠ” ë‹¤ìŒê³¼ ê°™ìŠµë‹ˆë‹¤.
 
 Enter the account name : a1
 Enter the deposit : 10000
