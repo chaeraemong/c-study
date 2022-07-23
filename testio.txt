@@ -1,0 +1,2 @@
+Luigi 70 100 90
+Name : Luigi Average : 86
