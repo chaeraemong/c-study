@@ -20,7 +20,7 @@ int main()
 	return 0;
 }
 
-/*½ÇÇà¿¹´Â ´ÙÀ½°ú °°½À´Ï´Ù.
+/*ì‹¤í–‰ì˜ˆëŠ” ë‹¤ìŒê³¼ ê°™ìŠµë‹ˆë‹¤.
 
 Person constructor
 Employee constructor
